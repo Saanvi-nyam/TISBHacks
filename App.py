@@ -26,7 +26,7 @@ def main():
 
         ''')
         add_vertical_space(5)
-        st.write('Made with love by Team WGS')
+        st.write('Made with love by Team S2 from WGS')
 
     # upload file
     pdf = st.file_uploader("Upload your PDF", type="pdf")
