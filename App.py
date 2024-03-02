@@ -12,7 +12,7 @@ from streamlit_extras.add_vertical_space import add_vertical_space
 def main():
     st.set_page_config(page_title="Ask your PDF")
     load_dotenv()
-    st.header("Ask your PDF 💬")
+    st.header("Ask your ScanScript AI💬")
     
     # sidebar
     with st.sidebar:
