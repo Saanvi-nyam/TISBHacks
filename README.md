@@ -1,7 +1,7 @@
 Page Configuration and Header:
 
 The code sets the title of the web page to "Ask your PDF" using Streamlit's set_page_config function.
-It displays a header with the title "Ask your PDF 💬".
+It displays a header with the title "Ask your ScanScript Ai 💬".
 
 Sidebar:
 
